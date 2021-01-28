@@ -3,7 +3,7 @@
 
 AUTHOR = 'Team 9'
 SITENAME = 'Group Project #1 TCMG 412 - Team 9'
-SITEURL = ''
+SITEURL = 'https://OBREGON-exe.github.io'
 
 PATH = 'content'
 
