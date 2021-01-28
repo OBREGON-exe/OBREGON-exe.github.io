@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TCMG 412 Group Project #1 - Team 9 - Project Roles</title><link href="https://OBREGON-exe.githuub.io/staticsite/" rel="alternate"></link><link href="https://OBREGON-exe.githuub.io/staticsite/feeds/project-roles.atom.xml" rel="self"></link><id>https://OBREGON-exe.githuub.io/staticsite/</id><updated>2021-01-26T00:00:00-06:00</updated><entry><title>Our roles</title><link href="https://OBREGON-exe.githuub.io/staticsite/our-roles.html" rel="alternate"></link><published>2021-01-26T00:00:00-06:00</published><updated>2021-01-26T00:00:00-06:00</updated><author><name>Juan Quiroz</name></author><id>tag:obregon-exe.githuub.io,2021-01-26:/staticsite/our-roles.html</id><summary type="html">&lt;p&gt;Our Roles in this project&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;html&gt;
+    &lt;head&gt;
+        &lt;title&gt;Roles&lt;/title&gt;
+        &lt;meta name="tags" content="Roles, Managers" /&gt;
+        &lt;meta name="date" content="2021-01-26" /&gt;
+        &lt;meta name="modified" content="2021-01-25" /&gt;
+        &lt;meta name="category" content="Project" /&gt;
+        &lt;meta name="authors" content="Juan Quiroz, Joseph Yeh, Jose Obregon, Jaxon Reeves" /&gt;
+        &lt;meta name="summary" content="Our Roles in this project" /&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;p&gt;Hello our team consists of four people split into two subgroups. Juan Quiroz took the responsibility as the manager for Devs, within his subgroup is Jaxon. The manager for Ops is Joseph and working with him is Jose.&lt;/p&gt;
+        &lt;center&gt; &lt;img src="images/DevOps.jpeg" alt="How DevOps help each other" width="600"height="500"&gt;&lt;/center&gt;
+    &lt;/body&gt;
+&lt;/html&gt;&lt;/p&gt;</content><category term="Project Roles"></category><category term="Roles"></category><category term="Managers"></category></entry></feed>

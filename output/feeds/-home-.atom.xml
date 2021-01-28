@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TCMG 412 Group Project #1 - Team 9 - -Home-</title><link href="https://OBREGON-exe.githuub.io/staticsite/" rel="alternate"></link><link href="https://OBREGON-exe.githuub.io/staticsite/feeds/-home-.atom.xml" rel="self"></link><id>https://OBREGON-exe.githuub.io/staticsite/</id><updated>2021-01-26T00:00:00-06:00</updated><entry><title>-Team 9-</title><link href="https://OBREGON-exe.githuub.io/staticsite/-team-9-.html" rel="alternate"></link><published>2021-01-26T00:00:00-06:00</published><updated>2021-01-26T00:00:00-06:00</updated><author><name>JJuan Quiroz</name></author><id>tag:obregon-exe.githuub.io,2021-01-26:/staticsite/-team-9-.html</id><summary type="html">&lt;p&gt;Welcome to our new website built for TCMG 412!&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;html&gt;
+    &lt;head&gt;
+        &lt;title&gt;-Team 9-&lt;/title&gt;
+        &lt;meta name="tags" content="TCMG, A&amp;M" /&gt;
+        &lt;meta name="date" content="2021-01-26" /&gt;
+        &lt;meta name="modified" content="2021-01-26" /&gt;
+        &lt;meta name="category" content="-Home-" /&gt;
+        &lt;meta name="authors" content="Juan Quiroz,Juan Quiroz, Joseph Yeh, Jose Obregon, Jaxon Reeves" /&gt;
+        &lt;meta name="summary" content="Welcome to our new website built for TCMG 412!" /&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;center&gt;&lt;img src="images/logo.jpg" alt="Texas A&amp;M Logo" width="200" height="200"&gt;
+        &lt;p&gt;Welcome to our webpage! Our team consists of four people. This website was designed for a lab project that we indivually had to create and deploy. We split our team into two subgroups, one group consisting of Devs and the other of Ops.&lt;/p&gt;
+        &lt;img src="images/campus.jpg" alt="Texas A&amp;M Campus" width="700"height="400"&gt;&lt;/center&gt;
+    &lt;/body&gt;
+&lt;/html&gt;&lt;/p&gt;</content><category term="-Home-"></category><category term="TCMG"></category><category term="A&amp;M"></category></entry></feed>

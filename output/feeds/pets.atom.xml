@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TCMG 412 Group Project #1 - Team 9 - Pets</title><link href="https://OBREGON-exe.githuub.io/staticsite/" rel="alternate"></link><link href="https://OBREGON-exe.githuub.io/staticsite/feeds/pets.atom.xml" rel="self"></link><id>https://OBREGON-exe.githuub.io/staticsite/</id><updated>2021-01-26T00:00:00-06:00</updated><entry><title>Our Pets</title><link href="https://OBREGON-exe.githuub.io/staticsite/our-pets.html" rel="alternate"></link><published>2021-01-26T00:00:00-06:00</published><updated>2021-01-26T00:00:00-06:00</updated><author><name>Juan Quiroz</name></author><id>tag:obregon-exe.githuub.io,2021-01-26:/staticsite/our-pets.html</id><summary type="html">&lt;p&gt;Look at our adorable pets!&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;html&gt;
+    &lt;head&gt;
+        &lt;title&gt;Our Pets&lt;/title&gt;
+        &lt;meta name="tags" content="Pets, Aww" /&gt;
+        &lt;meta name="date" content="2021-01-26" /&gt;
+        &lt;meta name="modified" content="2021-01-26" /&gt;
+        &lt;meta name="category" content="Pets" /&gt;
+        &lt;meta name="authors" content="Juan Quiroz, Joseph Yeh, Jose Obregon, Jaxon Reeves" /&gt;
+        &lt;meta name="summary" content="Look at our adorable pets!" /&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+        &lt;center&gt;&lt;img src="images/dante.jpg" alt="My Dog" width="700" height="525"&gt;
+        &lt;p&gt;This is Juan taking over. This my adorable pug whose name is Dante. He is about to be 3 years old this April&lt;/p&gt;
+    &lt;/body&gt;
+&lt;/html&gt;&lt;/p&gt;</content><category term="Pets"></category><category term="Pets"></category><category term="Aww"></category></entry></feed>
